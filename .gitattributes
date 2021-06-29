@@ -1,1 +1,5 @@
-*.rb linguist-language=C#
+*.cs linguist-detectable=true
+*.html linguist-detectable=false
+*.java linguist-detectable=false
+*.python linguist-detectable=false
+*.javascript linguist-detectable=false
