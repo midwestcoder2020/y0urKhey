@@ -1,5 +1,2 @@
-*.cs linguist-detectable=true
-*.html linguist-detectable=false
-*.java linguist-detectable=false
-*.python linguist-detectable=false
-*.javascript linguist-detectable=false
+* linguist-vendored
+*.cs linguist-vendored=false
